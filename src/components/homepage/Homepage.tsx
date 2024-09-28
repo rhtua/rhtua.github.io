@@ -1,4 +1,4 @@
-import { Flex, Spacer, Text, Box } from "@chakra-ui/react";
+import { Flex, Text, Box } from "@chakra-ui/react";
 import { homeText } from "../../translation";
 import "./button.css";
 
