@@ -35,7 +35,11 @@ export const Social: React.FC = () => {
         w={{ base: "7%", lg: "60%", xl: "45%" }}
         cursor={"pointer"}
         _hover={{ color: "#F04A00" }}
-        onClick={() => window.open("https://github.com/rhtua", "_blank")}
+        onClick={() =>
+          window.open(
+            "https://www.rhtua.com.br/public/Arthur-Fusieger-Resume.pdf"
+          )
+        }
       />
     </Flex>
   );
