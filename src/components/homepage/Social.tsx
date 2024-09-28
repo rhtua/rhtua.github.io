@@ -36,9 +36,7 @@ export const Social: React.FC = () => {
         cursor={"pointer"}
         _hover={{ color: "#F04A00" }}
         onClick={() =>
-          window.open(
-            "https://www.rhtua.com.br/public/Arthur-Fusieger-Resume.pdf"
-          )
+          window.open("https://www.rhtua.com.br/Arthur-Fusieger-Resume.pdf")
         }
       />
     </Flex>
